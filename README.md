@@ -1,6 +1,6 @@
 # Stellar Supreme Tutorial: A Journey Through Soroban Smart Contracts
 
-![Stellar Supreme Tutorial Banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5z4x9h3j0q6z8gvi2al.png)
+![Stellar Supreme Tutorial Banner](https://imgbox.com/HBjtyFSb)
 
 ## 🌟 Introduction
 
