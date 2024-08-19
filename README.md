@@ -61,7 +61,7 @@ A huge thank you to the Stellar Development Foundation for organizing this hacka
 
 ## 🔗 Try It Out!
 
-[Link to Stellar Supreme Tutorial](https://github.com/pedro-pelicioni/stellar-supreme-tutorial)  
+[Link to Stellar Supreme Tutorial](https://stellar-supreme-tutorial.vercel.app)  
 
 ## 🚀 What's Next?
 
